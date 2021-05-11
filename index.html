@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <meta charset=utf-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Experiments</title>
+    <script>
+      fetch('deployListing.json')
+      .then(response => response.json())
+      .then(data => {
+        let branches = data.branches
+        let $listings = document.getElementById('listings')
+        for (let branch of branches) {
+          let $li = document.createElement('li')
+          let $a = document.createElement('a')
+          $a.href = branch.url
+          $a.innerText = branch.name
+          $li.innerText = new Date(branch.date).toLocaleDateString() + ' '
+          $li.appendChild($a)
+          $listings.appendChild($li)
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <ul id='listings'>
+    </ul>
+  </body>
+</html>
