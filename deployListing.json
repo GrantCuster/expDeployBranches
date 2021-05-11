@@ -1,6 +1,11 @@
 {
     "branches": [
         {
+            "url": "https://grantcuster.github.io/expDeployBranches/exp2",
+            "name": "exp2",
+            "date": "2021-05-11T14:35:21.793Z"
+        },
+        {
             "url": "https://grantcuster.github.io/expDeployBranches/exp1",
             "name": "exp1",
             "date": "2021-05-11T14:30:31.308Z"
@@ -9,11 +14,6 @@
             "url": "https://grantcuster.github.io/expDeployBranches/main",
             "name": "main",
             "date": "2021-05-11T14:29:53.365Z"
-        },
-        {
-            "url": "https://grantcuster.github.io/branches/exp2",
-            "name": "exp2",
-            "date": "2021-05-11T14:22:57.735Z"
         }
     ]
 }
