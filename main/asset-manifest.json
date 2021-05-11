@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/branches/main/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/branches/main/static/js/main.3746b260.chunk.js",
-    "main.js.map": "/branches/main/static/js/main.3746b260.chunk.js.map",
-    "runtime-main.js": "/branches/main/static/js/runtime-main.dc85aaf4.js",
-    "runtime-main.js.map": "/branches/main/static/js/runtime-main.dc85aaf4.js.map",
-    "static/js/2.c4fac9e6.chunk.js": "/branches/main/static/js/2.c4fac9e6.chunk.js",
-    "static/js/2.c4fac9e6.chunk.js.map": "/branches/main/static/js/2.c4fac9e6.chunk.js.map",
-    "static/js/3.b813aaea.chunk.js": "/branches/main/static/js/3.b813aaea.chunk.js",
-    "static/js/3.b813aaea.chunk.js.map": "/branches/main/static/js/3.b813aaea.chunk.js.map",
-    "index.html": "/branches/main/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/branches/main/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c4fac9e6.chunk.js.LICENSE.txt": "/branches/main/static/js/2.c4fac9e6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/branches/main/static/media/logo.6ce24c58.svg"
+    "main.css": "/expDeployBranches/main/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/expDeployBranches/main/static/js/main.dbfdcd05.chunk.js",
+    "main.js.map": "/expDeployBranches/main/static/js/main.dbfdcd05.chunk.js.map",
+    "runtime-main.js": "/expDeployBranches/main/static/js/runtime-main.edbd2507.js",
+    "runtime-main.js.map": "/expDeployBranches/main/static/js/runtime-main.edbd2507.js.map",
+    "static/js/2.c4fac9e6.chunk.js": "/expDeployBranches/main/static/js/2.c4fac9e6.chunk.js",
+    "static/js/2.c4fac9e6.chunk.js.map": "/expDeployBranches/main/static/js/2.c4fac9e6.chunk.js.map",
+    "static/js/3.b813aaea.chunk.js": "/expDeployBranches/main/static/js/3.b813aaea.chunk.js",
+    "static/js/3.b813aaea.chunk.js.map": "/expDeployBranches/main/static/js/3.b813aaea.chunk.js.map",
+    "index.html": "/expDeployBranches/main/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/expDeployBranches/main/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c4fac9e6.chunk.js.LICENSE.txt": "/expDeployBranches/main/static/js/2.c4fac9e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/expDeployBranches/main/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc85aaf4.js",
+    "static/js/runtime-main.edbd2507.js",
     "static/js/2.c4fac9e6.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.3746b260.chunk.js"
+    "static/js/main.dbfdcd05.chunk.js"
   ]
 }
