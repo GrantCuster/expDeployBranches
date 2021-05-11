@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/branches/exp2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/branches/exp2/static/js/main.f4eda354.chunk.js",
+    "main.js.map": "/branches/exp2/static/js/main.f4eda354.chunk.js.map",
+    "runtime-main.js": "/branches/exp2/static/js/runtime-main.1dac488d.js",
+    "runtime-main.js.map": "/branches/exp2/static/js/runtime-main.1dac488d.js.map",
+    "static/js/2.c4fac9e6.chunk.js": "/branches/exp2/static/js/2.c4fac9e6.chunk.js",
+    "static/js/2.c4fac9e6.chunk.js.map": "/branches/exp2/static/js/2.c4fac9e6.chunk.js.map",
+    "static/js/3.b813aaea.chunk.js": "/branches/exp2/static/js/3.b813aaea.chunk.js",
+    "static/js/3.b813aaea.chunk.js.map": "/branches/exp2/static/js/3.b813aaea.chunk.js.map",
+    "index.html": "/branches/exp2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/branches/exp2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c4fac9e6.chunk.js.LICENSE.txt": "/branches/exp2/static/js/2.c4fac9e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/branches/exp2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dac488d.js",
+    "static/js/2.c4fac9e6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f4eda354.chunk.js"
+  ]
+}
